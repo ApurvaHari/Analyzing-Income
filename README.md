@@ -4,11 +4,10 @@ This is the final project for STAT-420 taught by David Dalpiaz at University of 
 
 ## Files
 * Documents
-** Final Project report: Project.pdf
-** Project proposal document: Proposal.pdf
-** Reference book used in the class: referene/applied_statistics.pdf
-
-* Data files: Distributed.csv, Interactions.csv, mobility.csv, Shuffled.csv
+  * Final Project report: Project.pdf
+  * Project proposal: Proposal.pdf
+  * Reference book used in the class: referene/applied_statistics.pdf
 
 * Project source code: Project.Rmd
 
+* Data files: Distributed.csv, Interactions.csv, mobility.csv, Shuffled.csv

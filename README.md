@@ -6,7 +6,7 @@ This is the final project for STAT-420 taught by David Dalpiaz at University of 
 * Documents
   * Final Project report: Project.pdf
   * Project proposal: Proposal.pdf
-  * Reference book used in the class: referene/applied_statistics.pdf
+  * Reference book used in the class: reference/applied_statistics.pdf
 
 * Project source code: Project.Rmd
 
